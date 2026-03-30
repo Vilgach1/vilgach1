@@ -2,6 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vilgach&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<!-- FURRY / WOLF BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=header&text=🐺%20Vilgach%20–%20Wolf%20Banner&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%" />
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
