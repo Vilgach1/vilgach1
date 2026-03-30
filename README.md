@@ -11,12 +11,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/🐾_Furry-Developer-8B5CF6?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🐺_OwO-Code-EC4899?style=for-the-badge&labelColor=0d1117" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Python+developer;Telegram+bots+%26+automation;Clean+code%2C+fast+launch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Python+developer;Telegram+bots+%26+automation;Fast+launches" alt="Typing SVG" />
 
 </div>
 
@@ -29,7 +24,7 @@ Python developer building Telegram bots, automation tools, parsers and backend s
 - Main stack — **Python**, **Aiogram**, **SQL**
 - I build shop bots, utilities and admin panels
 - I write parsers and automation scripts
-- I prefer clean code and fast launches
+- I prefer fast launches
 
 ---
 
